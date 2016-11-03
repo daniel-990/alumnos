@@ -1,4 +1,4 @@
-#pagina que le permite, a un estudiante logearse, entrar y modificar su perfil, 
+#pagina que le permite a un estudiante logearse, entrar y modificar su perfil, 
 
 ver:
  *cursos
